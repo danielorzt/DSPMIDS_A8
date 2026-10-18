@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.ClimaMovil" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/azul</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="android:statusBarColor">@color/azul</item>
+    </style>
+</resources>

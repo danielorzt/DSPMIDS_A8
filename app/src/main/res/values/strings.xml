@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Clima Móvil</string>
+    <string name="agregar_ciudad">Agregar ciudad</string>
+    <string name="agregar_titulo">Agregar ciudad</string>
+    <string name="agregar">Agregar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="actualizar">Actualizar</string>
+    <string name="eliminar">Eliminar ubicación</string>
+    <string name="hint_ciudad">Ciudad (por ejemplo: Duitama)</string>
+    <string name="lista_vacia">Aún no hay ubicaciones.\nToca «Agregar ciudad» para empezar.</string>
+    <string name="escribe_ciudad">Escribe el nombre de una ciudad</string>
+    <string name="eliminada">%1$s eliminada</string>
+    <string name="nada_que_actualizar">No hay ubicaciones para actualizar</string>
+    <string name="actualizadas">%1$d ubicaciones actualizadas</string>
+    <string name="actualizadas_con_fallos">%1$d actualizadas, %2$d con error (¿sin conexión?)</string>
+</resources>

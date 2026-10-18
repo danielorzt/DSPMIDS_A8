@@ -1,0 +1,4 @@
+# Copia este archivo como "local.properties" y pega tu clave de OpenWeatherMap.
+# local.properties NO se sube a GitHub (está en .gitignore).
+# Android Studio agrega solo la línea sdk.dir cuando abres el proyecto.
+OPENWEATHER_API_KEY=pega_aqui_tu_clave
