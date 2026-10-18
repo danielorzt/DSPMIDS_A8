@@ -22,7 +22,9 @@ android {
         versionCode = 1
         versionName = "1.0"
 
-        val clave = localProps.getProperty("OPENWEATHER_API_KEY", "")
+        val clave = localProps.getProperty("OPENWEATHER_API_KEY")
+            ?: System.getenv("OPENWEATHER_API_KEY")
+            ?: ""
         buildConfigField("String", "OPENWEATHER_API_KEY", "\"$clave\"")
     }
 
